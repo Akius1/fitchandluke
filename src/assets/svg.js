@@ -11,6 +11,7 @@ export { ReactComponent as DPIconSeerbit } from './Seerbit/SEERBIT ®.svg';
 
 export { ReactComponent as DPIconCart } from './Seerbit/shopping-cart 1.svg';
 export { ReactComponent as DPIconLike} from './Seerbit/Vector (3).svg';
+export { ReactComponent as DPIconLiked} from './Seerbit/HeartTick.svg';
 export { ReactComponent as DPIconSearch } from './Seerbit/Group 15.svg';
 export { ReactComponent as DPIconLock } from './Seerbit/shop bag.svg';
 

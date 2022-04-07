@@ -12,7 +12,7 @@ module.exports = {
       colors: {
         faintGrey: '#888EA0',
         lightBlack: '#182754',
-        linkBlue: '#005CD6',
+        cartBlue: '#253B80',
       },
       fontSize: {
         nameSize: '23.86px',
